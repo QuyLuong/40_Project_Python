@@ -1,3 +1,3 @@
 # 40_Project_Python
 
-Luong Tuong Quy
+- This project will display 40 Projects in python
